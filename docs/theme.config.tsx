@@ -80,7 +80,7 @@ const config: DocsThemeConfig = {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:image" content={socialCard} />
         <meta name="twitter:site:domain" content="nextra.site" />
-        <meta name="twitter:url" content="https://nextra.site" />
+        <meta name="twitter:url" content="https://nextrablog.paulapplegate.com" />
         <meta
           name="og:title"
           content={title ? title + ' – Nextra' : 'Nextra'}

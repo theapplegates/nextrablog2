@@ -68,7 +68,7 @@ export default {
       titleTemplate: '%s – Nextra',
       twitter: {
         cardType: 'summary_large_image',
-        site: 'https://nextra.vercel.app'
+        site: 'https://nextrablog.paulapplegate.com'
       }
     }
   },

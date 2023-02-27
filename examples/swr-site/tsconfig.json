@@ -14,7 +14,7 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "moduleResolution": "node",
-    "baseUrl": "./",
+    "baseUrl": "nextrablog.paulapplegate.com/",
     "paths": {
       "@components/*": ["./components/*"]
     }
